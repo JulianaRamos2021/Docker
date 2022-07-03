@@ -10,6 +10,11 @@ Download WSL 2
 https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
 
 
+Com o Docker e WSL instalados acessei o terminal de linha de comando Ubuntu. O conteúdo do cluster é uma cortesia da Semantix Academy disponibilizado exclusivamente para fins academicos. Para adicionar seu conteúdo no cluster digitei o comando:
+
+
+git clone https://github.com/rodrigo-reboucas/docker-bigdata.git
+
 # Hadoop
 
 
