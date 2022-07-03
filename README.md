@@ -13,7 +13,7 @@ https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
 Com o Docker e WSL instalados acessei o terminal de linha de comando Ubuntu. O conteúdo do cluster é uma cortesia da Semantix Academy disponibilizado exclusivamente para fins academicos. Ao acessar o Ubuntu criei a pasta treinamentos através do comando "mkdir treinamentos", em seguida acessei a pasta treinamentos através do comando "cd treinamentos". Dentro da pasta copiei os dados através do comando git clone:
 
 
-git clone https://github.com/rodrigo-reboucas/docker-bigdata.git
+![image](https://user-images.githubusercontent.com/78691172/177059150-89a32948-5cd3-415f-9cbd-c395a80412ed.png)
 
 # Hadoop
 
