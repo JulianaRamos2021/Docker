@@ -1,7 +1,9 @@
-#Criando cluster de Big Data 
-O Hadoop é uma plataforma de software em Java de computação distribuída voltada para clusters e processamento de grandes volumes de dados, vou instalar essa plataforma em um cluster de big data, por isso primeiro vou criá-lo.
+# Criando cluster de Big Data 
 
-O cluster será instalado no Docker
+
+O Hadoop é uma plataforma de software em Java de computação distribuída voltada para clusters e processamento de grandes volumes de dados, vou instalar o Hadoop em um cluster de big data, primeiro será instalado o Docker Desktop nos links abaixo. Em seguida o cluster será configurado para finalmente poder trabalhar com o Hadoop.
+
+O cluster será instalado no Docker Desktop
 
 
 # Hadoop
