@@ -3,7 +3,11 @@
 
 O Hadoop é uma plataforma de software em Java de computação distribuída voltada para clusters e processamento de grandes volumes de dados, vou instalar o Hadoop em um cluster de big data, primeiro será instalado o Docker Desktop nos links abaixo. Em seguida o cluster será configurado para finalmente poder trabalhar com o Hadoop.
 
-O cluster será instalado no Docker Desktop
+Link para instalação do Docker Desktop no Windows
+https://hub.docker.com/editions/community/docker-ce-desktop-windows/ 
+
+Download WSL 2
+https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
 
 
 # Hadoop
