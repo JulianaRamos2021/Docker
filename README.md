@@ -15,6 +15,16 @@ Com o Docker e WSL instalados acessei o terminal de linha de comando Ubuntu. O c
 
 ![image](https://user-images.githubusercontent.com/78691172/177059150-89a32948-5cd3-415f-9cbd-c395a80412ed.png)
 
+
+No clustes identificamos uma pasta através do comando ls:
+![image](https://user-images.githubusercontent.com/78691172/177059319-ec94a8c4-bed8-41a6-bfc0-d0a3555b8a34.png)
+
+
+
+Acessei essa pasta e baixei as imagens do Docker Compose através do comando Docker-compose pull
+
+
+
 # Hadoop
 
 
