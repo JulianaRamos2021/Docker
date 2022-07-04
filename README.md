@@ -21,7 +21,8 @@ No clustes identificamos uma pasta através do comando ls:
 
 
 
-Acessei essa pasta e baixei as imagens do Docker Compose através do comando Docker-compose pull
+Acessei essa pasta e baixei as imagens do Docker Compose através do comando "Docker-compose pull"
+![image](https://user-images.githubusercontent.com/78691172/177063624-7bd001cc-8c7f-4fa6-a0de-ee3546a6e89b.png)
 
 
 
